@@ -7,4 +7,7 @@
 # NCC
 今天很开心！
 
+# NiuChaochao
+LDY
+
 # VS code
